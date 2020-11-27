@@ -1,7 +1,7 @@
 {
   "name": "vidjot",
   "version": "1.0.0",
-  "description": "App to create video ideas",
+  "description": "App to create ideas",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
